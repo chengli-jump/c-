@@ -1,2 +1,6 @@
 add a new branch;
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Switched to a new branch 'feature1'
+=======
+Switched to a new branch 'feature1'
+>>>>>>> featurel
